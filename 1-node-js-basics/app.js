@@ -81,7 +81,7 @@ let productDetailHtml = fs.readFileSync('./Template/product-details.html', 'utf-
 //     output = output.replace('{{%ID%}}', product.id);
 //     output = output.replace('{{%ROM%}}', product.ROM);
 //     output = output.replace('{{%DESC%}}', product.Description);
-
+ 
 //     return output;
 // }
 //STEP 1: CREATE A SERVER
